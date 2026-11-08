@@ -1,0 +1,52 @@
+{
+  "schema_version": "draft-0.1",
+  "source_pdf": "",
+  "page_number": 1,
+  "annotation_status": "draft",
+  "reviewed_by": "",
+  "reviewed_on": "",
+  "coverage": "selected_regions",
+  "text_blocks": [
+    {
+      "id": "text_01",
+      "locator": "",
+      "exact_text": "",
+      "notes": ""
+    }
+  ],
+  "tables": [
+    {
+      "id": "table_01",
+      "locator": "",
+      "caption": null,
+      "coverage": "whole_table",
+      "header_row_count": 1,
+      "rows": [
+        ["", ""],
+        ["", ""]
+      ],
+      "merged_cells": [],
+      "notes": ""
+    }
+  ],
+  "figures": [
+    {
+      "id": "figure_01",
+      "locator": "",
+      "kind": "chart",
+      "caption": null,
+      "reference_crop": null,
+      "facts": [
+        {
+          "id": "fact_01",
+          "question": "",
+          "expected_answer": "",
+          "evidence_note": ""
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "uncertain_regions": [],
+  "notes": ""
+}
